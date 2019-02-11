@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03353E</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="grey">#2A2A2A</color>
+    <color name="dgrey">#1D1D1D</color>
+    <color name="lgrey">#484848</color>
+    <color name="yellow">#FFBE00</color>
+    <color name="aquab">#66FCF1</color>
+    <color name="daqua">#45A29E</color>
+
+</resources>
